@@ -1,4 +1,4 @@
-# Suicide_rates
+
 # Mental Health and Suicide Rates Analysis
 
 ## Project Overview
